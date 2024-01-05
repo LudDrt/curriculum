@@ -1,0 +1,53 @@
+/* Feuille de style pour l'affichage de mon CV */
+.page
+{
+	width: 780px;
+	margin: auto;
+    padding: 2px;
+	font-size: 13px;
+	font-family: Verdana, Tahoma, sans-serif;
+    border: 1px solid gray;
+    background-color: rgb(248, 238, 229);
+}
+
+.photo_titre
+{
+	height: 200px;
+    margin: 10px;
+    background-color: white;
+}
+
+.titre
+{
+	text-align: center;
+}
+
+.photo
+{
+    margin-left: 30px;
+}
+
+.information
+{
+    margin: 5px;
+}
+
+h1 {
+    font-size: 1.17em;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.darkorange { background-color: darkorange; }
+.limegreen { background-color: limegreen; }
+.orangered { background-color: orangered; }
+
+.icone { height: 20px; }
+
+.skills
+{
+    margin: 5px;
+    border-top: 1px solid black;
+}
